@@ -1,3 +1,9 @@
 # Donation-Application
 An application that make use of donors' information such as names and the amount of donation, to calculate the amount of total donation for different purposes. 
-![alt tag](./Screenshots/add-donor.png "Description goes here")
+![alt tag](./Screenshots/main-page.png "Main Page")
+![alt tag](./Screenshots/searchj-donor.png "Search Donor")
+![alt tag](./Screenshots/total-donation.png "Display total donation")
+![alt tag](./Screenshots/highest-donation.png "Display highest donation")
+![alt tag](./Screenshots/display-donation.png "Display all donation entries")
+![alt tag](./Screenshots/add-donor.png "Add a donor")
+![alt tag](./Screenshots/donation-added.png "A pop up after adding donor")

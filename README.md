@@ -14,7 +14,7 @@ An application that make use of donors' information such as names and the amount
 ![alt tag](./Screenshots/highest-donation.png "Display highest donation")
 
 ## Display all donation entries
-![alt tag](./Screenshots/display-donation.png "Display all donation entries")
+![alt tag](./Screenshots/display-donors.png "Display all donation entries")
 
 ## Add a donor
 ![alt tag](./Screenshots/add-donor.png "Add a donor")
